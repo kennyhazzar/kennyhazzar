@@ -1,6 +1,8 @@
 <div align="center">
   <div>
     <img height=165 src="https://github-readme-stats.vercel.app/api?username=kennyhazzar&count_private=true&theme=radical&show_icons=true">
+  </div>
+  <div>
     <img height=165 src="https://github-readme-stats.vercel.app/api/top-langs/?username=kennyhazzar&theme=radical">
   </div>
 </div>
