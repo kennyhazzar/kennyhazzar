@@ -50,7 +50,7 @@
 ## 📫 Get in Touch
 
 - Twitter: [@whosurkolchan](https://twitter.com/whosurkolchan)
-- GitHub: [kennyhazzar](https://github.com/kennyhazzar)
+- Telegram: [kennyhazzar](https://t.me/kennyhazzar)
 
 ---
 
