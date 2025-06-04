@@ -49,7 +49,6 @@
 
 ## 📫 Get in Touch
 
-- Twitter: [@whosurkolchan](https://twitter.com/whosurkolchan)
 - Telegram: [kennyhazzar](https://t.me/kennyhazzar)
 
 ---
