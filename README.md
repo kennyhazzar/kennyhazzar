@@ -1,94 +1,113 @@
 <h1 align="center">Kennyhazzar</h1>
 
 <p align="center">
-Backend Engineer
+Software Engineer
 </p>
 
 <p align="center">
-Designing reliable backend systems with a focus on architecture, scalability and maintainability.
+Designing maintainable backend systems with a focus on architecture, scalability and long-term reliability.
 </p>
 
 <p align="center">
-
-![](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![](https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white)
-![](https://img.shields.io/badge/NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white)
-![](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
-![](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
-![](https://img.shields.io/badge/RabbitMQ-FF6600?style=flat-square&logo=rabbitmq&logoColor=white)
-![](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-
+<a href="https://t.me/kennyhazzar">Telegram</a>
+&nbsp;•&nbsp;
+<a href="https://linkedin.com/in/dmitri-kolchanov-30890023a">LinkedIn</a>
+&nbsp;•&nbsp;
+<a href="https://github.com/kennyhazzar">GitHub</a>
+&nbsp;•&nbsp;
+<a href="https://career.habr.com/kennyhazzar">Habr Career</a>
+<!-- &nbsp;•&nbsp;
+<a href="https://YOUR_WEBSITE">Website</a> -->
 </p>
 
 ---
 
 ## Overview
 
-I build backend services intended for production environments.
+Backend engineer focused on designing systems that remain understandable, maintainable and reliable as they evolve.
 
-My primary interests are distributed systems, software architecture, domain-driven design, event-driven communication and infrastructure. I enjoy designing systems that remain understandable and maintainable as they evolve.
-
-Current areas of exploration include Go, Kubernetes and large-scale media processing.
+Interested in software architecture, distributed systems, infrastructure, messaging and developer experience. Always exploring new approaches while keeping engineering principles at the center of every project.
 
 ---
 
-## Core Technologies
+## Technologies
 
-| Area | Technologies |
-|------|--------------|
-| **Languages** | TypeScript · Go |
-| **Frameworks** | NestJS |
-| **Data** | PostgreSQL · Redis |
-| **Messaging** | RabbitMQ · BullMQ |
-| **Infrastructure** | Docker · Linux · GitHub Actions |
-| **Architecture** | DDD · CQRS · Clean Architecture · OpenAPI-first |
+### Backend
+
+<p>
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white">
+  <img src="https://img.shields.io/badge/Node.js-5FA04E?style=flat-square&logo=nodedotjs&logoColor=white">
+  <img src="https://img.shields.io/badge/NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white">
+  <img src="https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white">
+</p>
+
+### APIs
+
+<p>
+  <img src="https://img.shields.io/badge/REST-2D3748?style=flat-square">
+  <img src="https://img.shields.io/badge/GraphQL-E10098?style=flat-square&logo=graphql&logoColor=white">
+  <img src="https://img.shields.io/badge/OpenAPI-6BA539?style=flat-square&logo=openapiinitiative&logoColor=white">
+  <img src="https://img.shields.io/badge/WebSockets-010101?style=flat-square&logo=socketdotio&logoColor=white">
+</p>
+
+### Data
+
+<p>
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white">
+  <img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white">
+</p>
+
+### Messaging
+
+<p>
+  <img src="https://img.shields.io/badge/RabbitMQ-FF6600?style=flat-square&logo=rabbitmq&logoColor=white">
+  <img src="https://img.shields.io/badge/BullMQ-EA6C00?style=flat-square">
+  <img src="https://img.shields.io/badge/Redis_Pub/Sub-DC382D?style=flat-square&logo=redis&logoColor=white">
+</p>
+
+### Infrastructure
+
+<p>
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white">
+  <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white">
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black">
+  <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white">
+</p>
+
+### Architecture
+
+<p>
+  <img src="https://img.shields.io/badge/DDD-2D3748?style=flat-square">
+  <img src="https://img.shields.io/badge/CQRS-2D3748?style=flat-square">
+  <img src="https://img.shields.io/badge/Clean_Architecture-2D3748?style=flat-square">
+  <img src="https://img.shields.io/badge/Event--Driven-2D3748?style=flat-square">
+</p>
 
 ---
 
-## Current Projects
+## Focus Areas
 
-### Investigation Platform *(private)*
-
-Distributed backend platform for video surveillance and media processing.
-
-- Modular DDD architecture
-- CQRS
-- RabbitMQ-based communication
-- MediaMTX integration
-- Go workers
-- OpenAPI-first development
-
----
-
-### NestJS Backend Template
-
-Production-ready backend foundation designed around modular architecture and long-term maintainability.
-
----
-
-## Current Focus
-
+- Software Architecture
 - Distributed Systems
-- System Design
-- Backend Architecture
+- Backend Platforms
 - Event-Driven Systems
-- Kubernetes
-- Go
-- Media Processing
+- API Design
+- Infrastructure
 - Observability
+- Developer Experience
 
 ---
 
-## Principles
+## Engineering Principles
 
-- Build for production, not for demos.
+- Build software for production from day one.
+- Design systems to evolve.
 - Prefer explicit architecture over hidden complexity.
 - Optimize for maintainability before optimization.
-- Automate repetitive work.
-- Keep systems observable and predictable.
+- Automate repetitive work whenever possible.
 
 ---
 
-## Contact
+## Approach
 
-Telegram: **@kennyhazzar**
+Public repositories are primarily used to explore engineering ideas, prototype architectural patterns and share reusable foundations for future projects.
