@@ -1,56 +1,94 @@
-<h1 align="center">Hey, I'm Kennyhazzar 👋</h1>
-<p align="center">Backend engineer who builds, breaks, and occasionally ships clean code.</p>
+<h1 align="center">Kennyhazzar</h1>
+
+<p align="center">
+Backend Engineer
+</p>
+
+<p align="center">
+Designing reliable backend systems with a focus on architecture, scalability and maintainability.
+</p>
+
+<p align="center">
+
+![](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![](https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white)
+![](https://img.shields.io/badge/NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white)
+![](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
+![](https://img.shields.io/badge/RabbitMQ-FF6600?style=flat-square&logo=rabbitmq&logoColor=white)
+![](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+
+</p>
 
 ---
 
-## 🧠 About Me
+## Overview
 
-- TypeScript enthusiast & NestJS devotee  
-- Passionate about architecture, clean abstractions, and actual working systems  
-- Obsessed with DX, automation, and distributed queues (hello RabbitMQ)  
-- Writing backends that don’t cry in production
+I build backend services intended for production environments.
 
----
+My primary interests are distributed systems, software architecture, domain-driven design, event-driven communication and infrastructure. I enjoy designing systems that remain understandable and maintainable as they evolve.
 
-## 🛠 Tech Stack
-
-**Main stack:**
-- TypeScript / Node.js / NestJS  
-- PostgreSQL / TypeORM  
-- Redis / Bull / RabbitMQ  
-- Docker / GitHub Actions  
-
-**Also enjoy:**
-- Writing bots (Telegraf)  
-- Swagger/OpenAPI for human-friendly APIs  
-- Monorepo setups, CI/CD pipelines, and service orchestration
+Current areas of exploration include Go, Kubernetes and large-scale media processing.
 
 ---
 
-## 📦 About My Repos
+## Core Technologies
 
-> ⚠️ Many of my repositories are experimental playgrounds – testbeds for ideas, tools, and tech poking.  
-> 💎 But some are real gems (and a few are private). Ask me if you're curious.
-
-### A few public highlights:
-- 📚 [books-plain-text-bot](https://github.com/kennyhazzar/books-plain-text-bot) — Telegram bot that sends books in plain text  
-- 🔧 [nestjs-typeorm-template](https://github.com/kennyhazzar/nestjs-typeorm-template) — Boilerplate for a clean and scalable backend  
-- 🧩 [partner-pa-backend](https://github.com/kennyhazzar/partner-pa-backend) — Modular backend service for a partner platform *(archived)*
-
----
-
-## 🎯 Goals
-
-- Build things that **run in prod**, not just in `dev/`  
-- Contribute to tools I wish existed when I started  
-- Explore scalable, resilient, and observable systems  
+| Area | Technologies |
+|------|--------------|
+| **Languages** | TypeScript · Go |
+| **Frameworks** | NestJS |
+| **Data** | PostgreSQL · Redis |
+| **Messaging** | RabbitMQ · BullMQ |
+| **Infrastructure** | Docker · Linux · GitHub Actions |
+| **Architecture** | DDD · CQRS · Clean Architecture · OpenAPI-first |
 
 ---
 
-## 📫 Get in Touch
+## Current Projects
 
-- Telegram: [kennyhazzar](https://t.me/kennyhazzar)
+### Investigation Platform *(private)*
+
+Distributed backend platform for video surveillance and media processing.
+
+- Modular DDD architecture
+- CQRS
+- RabbitMQ-based communication
+- MediaMTX integration
+- Go workers
+- OpenAPI-first development
 
 ---
 
-> _"Shipping side projects since before they were cool (or finished)."_
+### NestJS Backend Template
+
+Production-ready backend foundation designed around modular architecture and long-term maintainability.
+
+---
+
+## Current Focus
+
+- Distributed Systems
+- System Design
+- Backend Architecture
+- Event-Driven Systems
+- Kubernetes
+- Go
+- Media Processing
+- Observability
+
+---
+
+## Principles
+
+- Build for production, not for demos.
+- Prefer explicit architecture over hidden complexity.
+- Optimize for maintainability before optimization.
+- Automate repetitive work.
+- Keep systems observable and predictable.
+
+---
+
+## Contact
+
+Telegram: **@kennyhazzar**
