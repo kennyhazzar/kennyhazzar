@@ -16,8 +16,8 @@ Designing maintainable backend systems with a focus on architecture, scalability
 <a href="https://github.com/kennyhazzar">GitHub</a>
 &nbsp;•&nbsp;
 <a href="https://career.habr.com/kennyhazzar">Habr Career</a>
-<!-- &nbsp;•&nbsp;
-<a href="https://YOUR_WEBSITE">Website</a> -->
+&nbsp;•&nbsp;
+<a href="https://steamcommunity.com/id/zer0x47838">Steam</a>
 </p>
 
 ---
